@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Shriya 👋
 
-<!--
-**shriyapokale/shriyapokale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- Quantitative Analyst
+- Data Analyst
+- Algorithmic Trading Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Python
+- SQL
+- Pandas
+- NumPy
+- Options Trading
+- Interactive Brokers API
+- Excel
+- Power BI
+- Machine Learning
+
+## Current Projects
+
+- Delta Neutral Options Strategy
+- Iron Condor options Strategy
+- Intraday Options Strategy
+- Live Trading Infrastructure
+
+## Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/shriya-pokale-2172a6217/
+Email: shriya.pokale24@gmail.com
