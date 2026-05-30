@@ -14,6 +14,7 @@
 - NumPy
 - Options Trading
 - Interactive Brokers API
+- Automation
 - Excel
 - Power BI
 - Machine Learning
